@@ -1,0 +1,6 @@
+framework module Pods_artmonious {
+  umbrella header "Pods-artmonious-umbrella.h"
+
+  export *
+  module * { export * }
+}
